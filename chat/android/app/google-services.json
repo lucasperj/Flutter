@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "278123553313",
+    "firebase_url": "https://chatflutter-60b4a.firebaseio.com",
+    "project_id": "chatflutter-60b4a",
+    "storage_bucket": "chatflutter-60b4a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:278123553313:android:fb43f195a8ce66878ff960",
+        "android_client_info": {
+          "package_name": "com.example.chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "278123553313-8jtg1h0fcl52lmgh5sl2pv8vvtinj538.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.chat",
+            "certificate_hash": "902a0cc32638fef77a4bcd703c0601eee0079a43"
+          }
+        },
+        {
+          "client_id": "278123553313-fb7s0hkn3ekjbqr8m0ditnenm8s2f9pr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7MevkuhBv0kXkyfu5I97qJ2BxJ63GFHU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "278123553313-fb7s0hkn3ekjbqr8m0ditnenm8s2f9pr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
